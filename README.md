@@ -37,6 +37,6 @@ Check out the live app here: [TaskFlow-Pro Live]([https://taskflow-pro.vercel.ap
 ### Installation
 
 ```bash
-git clone https://github.com/PRANJALBANSALJI/TaskFlow-Pro.git
+git clone https://github.com/Bhumit9416/taskforpanscience
 cd TaskFlow-Pro
 npm install
