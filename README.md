@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-Check out the live app here: [TaskFlow-Pro Live]([https://taskflow-pro.vercel.app](https://taskforpanscience.vercel.app/))  
+Check out the live app here: https://taskforpanscience.vercel.app/
 
 
 ## 🛠 Tech Stack
