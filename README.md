@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo here
 
-👉 [Try it out](https://taskforpanscience.vercel.app)
+👉 [Try it out]([https://taskforpanscience.vercel.app](https://task324df.vercel.app/))
 
 ---
 
